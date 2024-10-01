@@ -8,7 +8,7 @@ const api = axios.create({
   // Dessa forma, você pode definir uma URL base para todas as requisições e outras configurações padrões, 
   // como headers ou tempo limite, por exemplo.
 
-  baseURL: "Coloque sua chave ou URL da API aqui" 
+  baseURL: "https://66e9ec4587e41760944b1f52.mockapi.io/musicas" 
   // A `baseURL` define o endpoint base para as requisições.
   // Em vez de repetir a URL completa em cada requisição, você só precisa especificar o restante do caminho.
   // Exemplo: se você tiver uma API pública ou privada, aqui você pode usar uma URL genérica como:
