@@ -18,6 +18,11 @@ body {
   color: #ffffff;
   font-family: "Lalezar", sans-serif;
 }
+.flex {
+  display: flex;
+}
+
+
 ::-webkit-scrollbar {
   width: 0.8rem;
 }
